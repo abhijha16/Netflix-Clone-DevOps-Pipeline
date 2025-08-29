@@ -241,18 +241,6 @@ The automation generates comprehensive reports:
 - Advanced security policies with OPA
 - Service mesh integration (Istio)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Ensure all pipeline stages pass
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - **Original Netflix Clone:** Based on Netflix interface design
@@ -263,7 +251,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ Star this repository if it helps you learn DevOps!**
 
-**🔗 Connect:** [LinkedIn](your-linkedin) | [Portfolio](your-portfolio) | [Email](your-email)
+**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/abhishek-jha-abhi16/) | [Portfolio](your-portfolio) | [Email](abhishek1607jha@gmail.com)
 
 ---
 
